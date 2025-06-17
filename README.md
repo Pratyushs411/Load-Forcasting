@@ -40,9 +40,25 @@ This repository contains a deep learning-based approach to **short-term electric
 
 ---
 
+### 🔹 Actual vs GRU vs LSTM
+
+![Actual vs GRU vs LSTM](gru_vs_lstm.png)
+
+---
+
+### 🔹 Actual vs GRU+Attention
+
+![Actual vs GRU+Attention](gru+attention.png)
+
+---
+
+### 🔹 Actual vs GRU vs LSTM vs GRU+Attention
+
+![Actual vs GRU vs LSTM vs GRU+Attention](all.png)
+
 ## 🛠️ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/load-forecasting.git
+   git clone https://github.com/Pratyushs411/Load-Forcasting.git
    cd load-forecasting
